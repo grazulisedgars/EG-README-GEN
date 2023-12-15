@@ -8,7 +8,7 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [Licence](#licence)
-  - [Contributing](#contribution)
+  - [Contributing](#contributing)
   - [Tests](#tests)
   - [Link](#link)
   - [Questions](#questions)
@@ -17,7 +17,7 @@
   Ensure node.js is installed on your machine before running EG-README-GEN. Review and customize the predefined licence list to align with your project's licencing needs.
 
   ## Usage
-  Open your project directory in VSCode. Run the EG-README-GEN application in the terminal using Node.js. Answer the prompted questions to provide project details. Enjoy a professionally formatted README.md file with minimal effort. 
+  Open your project directory in VSCode. Run the EG-README-GEN application in the terminal using Node.js. Answer the prompted questions to provide project details. Enjoy a professionally formatted README.md file with minimal effort.
 
   ## Licence
   This project is licensed under the Apache 2.0
@@ -29,6 +29,7 @@
   To validate the generated README, thoroughly review each section and confirm that links and content are accurate.
 
   ## Link
+  https://drive.google.com/file/d/1aOpmHUz1Z3z1QZMWuNdOFlwxOMewFO-v/view?usp=sharing
 
   ## Questions
 
