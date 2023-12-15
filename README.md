@@ -1,32 +1,32 @@
-# EG-README
+# EG-README-GEN
 
   ## Description
-  asdasdasdasd
+  ReadMe Gen is dynamically generated
 
   ## Table of Contents
-  - [Installation] (#installation)
-  - [Usage] (#usage)
-  - [Licence] (#licence)
-  - [Contributing] (#contribution)
-  - [Tests] (#tests)
-  - [Questions] (#questions)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Licence](#licence)
+  - [Contributing](#contribution)
+  - [Tests](#tests)
+  - [Questions](#questions)
 
   ## Installation
-  dfghgfdfgh
+  Install inquirer and write functions for it to work
 
   ## Usage
-  sdfbnfdsdafg
+  Follow prompt questions
 
   ## Licence
   undefined
 
   ## Contributing
-  sadfgnfdsadf
+  N/A
 
   ## Tests 
-  undefined
+  Check it and try it out yourself
 
   ## Questions
-  Github: [undefined] (https://github.com/undefined)
-  Email: undefined
+  Github: [grazulisedgars] (https://github.com/grazulisedgars)
+  Email: grazulisedgars@gmail.com
 
