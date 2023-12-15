@@ -26,6 +26,12 @@ const questions = [
         message: "Usage Information",
     },
     {
+        type: "list",
+        name: "licence",
+        message: "Choose a licence for your project",
+        choices: ["MIT", "GNU GPL v3", "Apache 2.0", "ISC", "None"]
+    },
+    {
         type: "input",
         name: "contribution",
         message: "Contribution Guidelines",
