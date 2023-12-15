@@ -39,10 +39,18 @@ const questions = [
 
 // function to write README file
 function writeToFile(fileName, data) {
+    fs.appendFile(fileName, data, (err) => {
+        if (err) throw err;
+        console.log("README.md has been updated successfully!");
+    });
 }
 
 // function to initialize program
 function init() {
+    inquirer.prompt(questions).then((answers) => {
+        const readmeContent = generateMarkdown(answers);
+        writeToFile("README.md", readmeContent);
+    });
 
 }
 
